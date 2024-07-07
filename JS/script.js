@@ -24,3 +24,7 @@ link2.addEventListener('click', () => {
 link3.addEventListener('click', () => {
     scrollToElement(".column");
 });
+
+function WeAreWorkingOnIt(){
+    alert('We are Working on it!');
+}
